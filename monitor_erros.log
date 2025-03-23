@@ -1,0 +1,17 @@
+[2025-03-22 15:38:55] Não foi possível ler lista_exten.txt, usando padrão: pdf,mp3,jpg
+[2025-03-22 15:40:08] Não foi possível ler lista_exten.txt, usando padrão: pdf,mp3,jpg
+[2025-03-22 15:46:44] Aplicação iniciada
+[2025-03-22 15:46:44] Diretório atual: C:\Users\tiesc\PROJETOS\RUST\monitor_diretorio_v2
+[2025-03-22 15:46:44] Arquivo config.txt não encontrado, usando C:\pasta
+[2025-03-22 15:46:44] Extensões carregadas: ["pdf", "mp3", "jpg"]
+[2025-03-22 15:46:44] Credenciais carregadas com sucesso
+[2025-03-22 15:46:44] Monitorando diretório: C:\pasta
+[2025-03-22 15:46:44] Ícone de tray criado com sucesso
+[2025-03-22 15:46:44] Tentando conectar ao banco de dados: mysql://root:909090@127.0.0.1:3306/TESTE
+[2025-03-22 15:46:44] Erro ao criar pool de conexão: MySqlError { ERROR 1049 (42000): Unknown database 'teste' }
+[2025-03-23 15:47:26] Aplicação iniciada
+[2025-03-23 15:47:26] Diretório atual: C:\Users\tiesc\PROJETOS\RUST\monitor_diretorio_v2
+[2025-03-23 15:47:26] Arquivo env.txt não encontrado, usando padrões e criando exemplo
+[2025-03-23 15:47:26] Configurando o menu do tray icon
+[2025-03-23 15:47:27] Menu do tray icon configurado com sucesso
+[2025-03-23 15:47:27] Tentando conectar ao banco de dados: mysql://root:senha@127.0.0.1:3306/rust_test
